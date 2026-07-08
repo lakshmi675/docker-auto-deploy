@@ -32,7 +32,7 @@ function App() {
     <div className="app">
       <header className="app-header">
         <h1>🚀 Docker Auto Deploy Demo</h1>
-        <p className="tagline">v1.0.4 - edited directly on GitHub! 🚀</p>
+        <p className="tagline">v1.0.4 - edited directly GitHub! 🚀</p>
       </header>
 
       <section className="card">
