@@ -47,7 +47,7 @@ function App() {
       </section>
 
       <section className="card">
-        <h2>Items from Mongodb</h2>
+        <h2>Items from db</h2>
         {items.length === 0 && <p>No items yet.</p>}
         <ul>
           {items.map((item) => (
