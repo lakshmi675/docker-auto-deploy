@@ -31,8 +31,8 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>🚀 Docker Auto Deploy Demo's</h1>
-        <p className="tagline">v1.0.4 - edited directly on github"s🚀</p>
+        <h1>🚀 Docker Auto Deploy Demo</h1>
+        <p className="tagline">v1.0.4 - edited directly on github🚀</p>
       </header>
 
       <section className="card">
