@@ -36,7 +36,7 @@ function App() {
       </header>
 
       <section className="card">
-        <h2>Backend Health</h2>
+        <h2>Backend Health's</h2>
         {error && <p className="status status-down">⚠️ Cannot reach backend: {error}</p>}
         {!error && !health && <p>Loading…</p>}
         {!error && health && (
